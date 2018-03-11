@@ -9,6 +9,8 @@ https://drive.google.com/open?id=1iPiDt6Efl81WSgk4cLZosWQIDaJ29Gsyxy_whrHAczQ
 https://drive.google.com/open?id=1NofmLqeQeBPzAWs4uGg2SH8IfNgpwmPtxII6Mf3Qdrg
 ## การจัดการข้อมูลรายวิชา
 https://drive.google.com/open?id=1p9wKCvkBTXCdT8wy9SU4_PN_C0Jk670DhHU3MbhiIiM
+## การจัดการข้อมูลผู้สอนและผู้ช่วยสอน
+https://drive.google.com/open?id=1LDrN0OGh2tC2rqUWF0onE0TBimkfetRCkFSe4QO3LR4
 ## การประกาศโน๊ต
 ## เนื้อหาบทเรียน 
 ## การบ้าน
