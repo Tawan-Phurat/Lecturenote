@@ -7,7 +7,8 @@ https://drive.google.com/open?id=1ghCord4mwlWa0u_f9P4Pz3DfWxVz4sQje5yO0qNBgU8
 https://drive.google.com/open?id=1iPiDt6Efl81WSgk4cLZosWQIDaJ29Gsyxy_whrHAczQ
 ## การสร้างคลาสเรียนครั้งแรก สำหรับผู้ที่ยังไม่เคยมีบัญชีใช้งาน Piazza มาก่อน เริ่มตรงนี้ครับ
 https://drive.google.com/open?id=1NofmLqeQeBPzAWs4uGg2SH8IfNgpwmPtxII6Mf3Qdrg
-## คำบรรยายรายวิชา 
+## การจัดการข้อมูลรายวิชา
+https://drive.google.com/open?id=1p9wKCvkBTXCdT8wy9SU4_PN_C0Jk670DhHU3MbhiIiM
 ## การประกาศโน๊ต
 ## เนื้อหาบทเรียน 
 ## การบ้าน
