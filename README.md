@@ -1,4 +1,5 @@
 # คู่มือภาษาไทย การใช้งาน Piazza สำหรับผู้สอน
+โดยอาจารย์ตะวัน ภูรัต
 ## 1.  คำนำ
 https://drive.google.com/open?id=1txtJfK69nLO6NPseCsllW1V_GFt6PdbFo9sXMep2So8
 ## 2.  ข้อดีของ Piazza
