@@ -12,6 +12,7 @@ https://drive.google.com/open?id=1p9wKCvkBTXCdT8wy9SU4_PN_C0Jk670DhHU3MbhiIiM
 ## 6.  การจัดการข้อมูลผู้สอนและผู้ช่วยสอน
 https://drive.google.com/open?id=1LDrN0OGh2tC2rqUWF0onE0TBimkfetRCkFSe4QO3LR4
 ## 7.  การจัดการเอกสารประกอบการสอน การบ้าน เฉลยการบ้าน และเอกสารทั่วไป
+(waiting for edit)
 https://drive.google.com/open?id=1EBv2TRdJ_P2zT0JTrUHcyS3YYZw3CB4nGpruGlV5SNk
 ## 8.  การประกาศโน๊ต
 ## 9.  การตั้งคำถามคำตอบ
