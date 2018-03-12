@@ -16,7 +16,11 @@ https://drive.google.com/open?id=1LDrN0OGh2tC2rqUWF0onE0TBimkfetRCkFSe4QO3LR4
 (waiting for edit)
 https://drive.google.com/open?id=1EBv2TRdJ_P2zT0JTrUHcyS3YYZw3CB4nGpruGlV5SNk
 ## 8.  การประกาศข่าวสาร
-## 9.  การตั้งคำถามคำตอบ
+(waiting for edit)
+https://drive.google.com/open?id=1fElLMILKaJMOXTYoYtPIJXgjiOR6XdJhhfl4dQbzKSA
+## 9.  การตั้งคำถามและการตอบคำถาม
+(waiting for edit)
+https://drive.google.com/open?id=15Dw0CoJ3wTUMVy9ts5a7t8A7fcTYx2g8DILazVTsIGw
 ## 10. การสำรวจและการหยั่งเสียง
 ## 11. การเพิ่มอาจารย์ผู้สอนร่วม
 ## 12. การเพิ่มผู้ช่วยสอน
