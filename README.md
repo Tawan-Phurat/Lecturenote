@@ -31,6 +31,6 @@ https://drive.google.com/open?id=1djmlJjrEbxSWaJoue0tvGXGl4ZHmNzDa0Ah1DdHINv0
 ## 15. การสร้างคลาสเรียนเพิ่มเติม 
 ## 16. การใช้งาน Piazza สำหรับผู้เรียน
 under constructions
-
+https://github.com/Tawan-Phurat/Piazza-Manual-for-Student
 ### ขโณ โว มา อุปจฺจคา   “ขะโน โวมา อุปัดจะคา”  
 ### อย่าปล่อยกาลเวลาให้ล่วงไปโดยเปล่าประโยชน์
