@@ -1,4 +1,4 @@
-# คู่มือภาษาไทย การใช้งาน Piazza สำหรับผู้สอน
+# คู่มือภาษาไทย การใช้งาน Piazza สำหรับผู้สอน V1.0
 โดยอาจารย์ตะวัน ภูรัต
 ## 1.  คำนำ
 https://drive.google.com/open?id=1txtJfK69nLO6NPseCsllW1V_GFt6PdbFo9sXMep2So8
@@ -23,7 +23,9 @@ https://drive.google.com/open?id=1Ybj0rAA4VXh92Rpm0tFONJdayIjuS560eJ6HB9x84FQ
 ## 11. การเพิ่มผู้เรียนเข้าสู่รายวิชา
 https://drive.google.com/open?id=1djmlJjrEbxSWaJoue0tvGXGl4ZHmNzDa0Ah1DdHINv0
 ## 12. การปรับแต่งโครงสร้างของแฟ้มรายวิชา
+https://drive.google.com/open?id=1nrNNsutWNRtsBmWQfG2qMuf6tpjdTr6-E_24FWOSHQU
 ## 13. การสร้างคลาสเรียนเพิ่มเติม 
+https://drive.google.com/open?id=1EoSJn7Oa4qwSYRfWYKSsdDekSVylYoZcoAu_vOODNJg
 ## 14. การใช้งาน Piazza สำหรับผู้เรียน
 under constructions
 https://github.com/Tawan-Phurat/Piazza-Manual-for-Student
