@@ -20,12 +20,11 @@ https://drive.google.com/open?id=1fElLMILKaJMOXTYoYtPIJXgjiOR6XdJhhfl4dQbzKSA
 https://drive.google.com/open?id=15Dw0CoJ3wTUMVy9ts5a7t8A7fcTYx2g8DILazVTsIGw
 ## 10. การสำรวจความคิดเห็นและการออกเสียงในห้องเรียน
 https://drive.google.com/open?id=1Ybj0rAA4VXh92Rpm0tFONJdayIjuS560eJ6HB9x84FQ
-## 11. การเพิ่มอาจารย์ผู้สอนร่วม และการเพิ่มผู้ช่วยสอน
-## 12. การเพิ่มผู้เรียนเข้าสู่รายวิชา
+## 11. การเพิ่มผู้เรียนเข้าสู่รายวิชา
 https://drive.google.com/open?id=1djmlJjrEbxSWaJoue0tvGXGl4ZHmNzDa0Ah1DdHINv0
-## 13. การปรับแต่งโครงสร้างของแฟ้มรายวิชา
-## 14. การสร้างคลาสเรียนเพิ่มเติม 
-## 15. การใช้งาน Piazza สำหรับผู้เรียน
+## 12. การปรับแต่งโครงสร้างของแฟ้มรายวิชา
+## 13. การสร้างคลาสเรียนเพิ่มเติม 
+## 14. การใช้งาน Piazza สำหรับผู้เรียน
 under constructions
 https://github.com/Tawan-Phurat/Piazza-Manual-for-Student
 
@@ -34,4 +33,5 @@ https://github.com/Tawan-Phurat/Piazza-Manual-for-Student
 It is the one that is the most adoptable to change, that lives within the means available and work co-operatively against common threats."
 
 Charles Darwin
+![](https://ka-perseus-images.s3.amazonaws.com/1485434989994b63abc03dbecbf71f43875e3bcc.jpg)
 
