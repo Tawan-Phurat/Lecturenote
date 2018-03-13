@@ -19,13 +19,13 @@ https://drive.google.com/open?id=1fElLMILKaJMOXTYoYtPIJXgjiOR6XdJhhfl4dQbzKSA
 ## 9.  การตั้งคำถามและการตอบคำถาม
 https://drive.google.com/open?id=15Dw0CoJ3wTUMVy9ts5a7t8A7fcTYx2g8DILazVTsIGw
 ## 10. การสำรวจความคิดเห็นและการออกเสียงในห้องเรียน
-## 11. การเพิ่มอาจารย์ผู้สอนร่วม
-## 12. การเพิ่มผู้ช่วยสอน
-## 13. การเพิ่มผู้เรียนเข้าสู่รายวิชา
+https://drive.google.com/open?id=1Ybj0rAA4VXh92Rpm0tFONJdayIjuS560eJ6HB9x84FQ
+## 11. การเพิ่มอาจารย์ผู้สอนร่วม และการเพิ่มผู้ช่วยสอน
+## 12. การเพิ่มผู้เรียนเข้าสู่รายวิชา
 https://drive.google.com/open?id=1djmlJjrEbxSWaJoue0tvGXGl4ZHmNzDa0Ah1DdHINv0
-## 14. การปรับแต่งโครงสร้างของแฟ้มรายวิชา
-## 15. การสร้างคลาสเรียนเพิ่มเติม 
-## 16. การใช้งาน Piazza สำหรับผู้เรียน
+## 13. การปรับแต่งโครงสร้างของแฟ้มรายวิชา
+## 14. การสร้างคลาสเรียนเพิ่มเติม 
+## 15. การใช้งาน Piazza สำหรับผู้เรียน
 under constructions
 https://github.com/Tawan-Phurat/Piazza-Manual-for-Student
 ###  ททมาโน ปิโย โหติ : ผู้ให้ย่อมเป็นที่รัก
