@@ -17,7 +17,6 @@ https://drive.google.com/open?id=1EBv2TRdJ_P2zT0JTrUHcyS3YYZw3CB4nGpruGlV5SNk
 ## 8.  การประกาศข่าวสาร
 https://drive.google.com/open?id=1fElLMILKaJMOXTYoYtPIJXgjiOR6XdJhhfl4dQbzKSA
 ## 9.  การตั้งคำถามและการตอบคำถาม
-(waiting for edit)
 https://drive.google.com/open?id=15Dw0CoJ3wTUMVy9ts5a7t8A7fcTYx2g8DILazVTsIGw
 ## 10. การสำรวจความคิดเห็นและการออกเสียงในห้องเรียน
 ## 11. การเพิ่มอาจารย์ผู้สอนร่วม
