@@ -15,7 +15,6 @@ https://drive.google.com/open?id=1LDrN0OGh2tC2rqUWF0onE0TBimkfetRCkFSe4QO3LR4
 ## 7.  การจัดการเอกสารประกอบการสอน การบ้าน เฉลยการบ้าน และเอกสารทั่วไป
 https://drive.google.com/open?id=1EBv2TRdJ_P2zT0JTrUHcyS3YYZw3CB4nGpruGlV5SNk
 ## 8.  การประกาศข่าวสาร
-(waiting for edit)
 https://drive.google.com/open?id=1fElLMILKaJMOXTYoYtPIJXgjiOR6XdJhhfl4dQbzKSA
 ## 9.  การตั้งคำถามและการตอบคำถาม
 (waiting for edit)
