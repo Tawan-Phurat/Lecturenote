@@ -25,7 +25,6 @@ https://drive.google.com/open?id=15Dw0CoJ3wTUMVy9ts5a7t8A7fcTYx2g8DILazVTsIGw
 ## 11. การเพิ่มอาจารย์ผู้สอนร่วม
 ## 12. การเพิ่มผู้ช่วยสอน
 ## 13. การเพิ่มผู้เรียนเข้าสู่รายวิชา
-(waiting for edit)
 https://drive.google.com/open?id=1djmlJjrEbxSWaJoue0tvGXGl4ZHmNzDa0Ah1DdHINv0
 ## 14. การปรับแต่งโครงสร้างของแฟ้มรายวิชา
 ## 15. การสร้างคลาสเรียนเพิ่มเติม 
