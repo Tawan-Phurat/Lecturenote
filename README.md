@@ -30,7 +30,8 @@ under constructions
 https://github.com/Tawan-Phurat/Piazza-Manual-for-Student
 
 ### The Fittest survive
-"It is not the strongest of the species that survies,nor the most intelligent that survives.
+"It is not the strongest of the species that survives, nor the most intelligent that survives.
 It is the one that is the most adoptable to change, that lives within the means available and work co-operatively against common threats."
+
 Charles Darwin
 
