@@ -37,4 +37,3 @@ It is the one that is the most adoptable to change, that lives within the means 
 Charles Darwin
 
 ![Charles Darwin](https://ka-perseus-images.s3.amazonaws.com/1485434989994b63abc03dbecbf71f43875e3bcc.jpg)
-
